@@ -1,0 +1,22 @@
+{
+  "id": [
+    {
+      "id": "0",
+      "name": "Swati S.",
+      "class": "10",
+      "photo": "https://www.nicepng.com/png/full/741-7413169_placeholder-female.png"
+    },
+    {
+      "id": "1",
+      "name": "B. Nandita",
+      "class": "6",
+      "photo": "https://www.nicepng.com/png/full/741-7413169_placeholder-female.png"
+    },
+    {
+      "id": "2",
+      "name": "Manisha S.",
+      "class": "8",
+      "photo": "https://www.nicepng.com/png/full/741-7413169_placeholder-female.png"
+    }
+  ]
+}
