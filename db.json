@@ -3,19 +3,19 @@
     {
       "id": "0",
       "name": "Swati S.",
-      "stud_class": "10",
+      "studClass": "10",
       "photo": "https://www.nicepng.com/png/full/741-7413169_placeholder-female.png"
     },
     {
       "id": "1",
       "name": "B. Nandita",
-      "stud_class": "6",
+      "studClass": "6",
       "photo": "https://www.nicepng.com/png/full/741-7413169_placeholder-female.png"
     },
     {
       "id": "2",
       "name": "Manisha S.",
-      "stud_class": "8",
+      "studClass": "8",
       "photo": "https://www.nicepng.com/png/full/741-7413169_placeholder-female.png"
     }
   ]
